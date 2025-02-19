@@ -1683,3 +1683,7 @@ button:hover {
   -webkit-animation-play-state: paused !important;
   animation-play-state: paused !important;
 } 
+
+p {
+  color: purple
+}
